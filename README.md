@@ -65,8 +65,10 @@ Performs initial exploration and visualization:
 🗂️ **Outputs:**  
 - `numeric_description.csv`  
 - `correlation.png`
+
 ![image alt](https://github.com/AhmedAbdELhameed99/Sales-Data-Mining/blob/ad5a410824af828848bd50a2675afc61fe165766/correlation.png)
 - `monthly_sales.png`
+
 ![image alt](https://github.com/AhmedAbdELhameed99/Sales-Data-Mining/blob/ad5a410824af828848bd50a2675afc61fe165766/monthly_sales.png)
 
 📊 **Key Findings:**
