@@ -64,8 +64,10 @@ Performs initial exploration and visualization:
 
 🗂️ **Outputs:**  
 - `numeric_description.csv`  
-- `correlation.png`  
+- `correlation.png`
+![image alt](https://github.com/AhmedAbdELhameed99/Sales-Data-Mining/blob/ad5a410824af828848bd50a2675afc61fe165766/correlation.png)
 - `monthly_sales.png`
+![image alt](https://github.com/AhmedAbdELhameed99/Sales-Data-Mining/blob/ad5a410824af828848bd50a2675afc61fe165766/monthly_sales.png)
 
 📊 **Key Findings:**
 - Average Sale ≈ 229  
@@ -146,6 +148,7 @@ Forecasts next **90 days** of daily sales using **Prophet**.
 📊 **Outputs:**
 - `forecast.csv`
 - `forecast_plot.png`
+![image alt](https://github.com/AhmedAbdELhameed99/Sales-Data-Mining/blob/ad5a410824af828848bd50a2675afc61fe165766/forecast_plot.png)
 - `forecast_components.png`
 
 💡 **Interpretation:**  
