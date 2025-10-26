@@ -1,0 +1,29 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                 Profit   R-squared:                       0.273
+Model:                            OLS   Adj. R-squared:                  0.272
+Method:                 Least Squares   F-statistic:                     1251.
+Date:                Sat, 25 Oct 2025   Prob (F-statistic):               0.00
+Time:                        19:48:45   Log-Likelihood:                -67271.
+No. Observations:               10018   AIC:                         1.345e+05
+Df Residuals:                   10014   BIC:                         1.346e+05
+Df Model:                           3                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const         34.8536      4.210      8.278      0.000      26.600      43.107
+Sales          0.1799      0.003     55.011      0.000       0.174       0.186
+Discount    -232.6969      9.657    -24.096      0.000    -251.626    -213.767
+Quantity      -2.9300      0.915     -3.201      0.001      -4.724      -1.136
+==============================================================================
+Omnibus:                    14967.317   Durbin-Watson:                   1.986
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):         76483536.942
+Skew:                          -8.191   Prob(JB):                         0.00
+Kurtosis:                     430.741   Cond. No.                     3.26e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 3.26e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.
